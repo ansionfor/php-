@@ -17,6 +17,10 @@
     array(0,0,0,1,0)
     );
 
+
+##代码
+
+
     <?php
     /**
     author:ansion
